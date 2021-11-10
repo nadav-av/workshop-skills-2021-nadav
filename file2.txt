@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 This is file2
+=======
+This is file2 of b2
+(and this line added in rebase, resolved conflict by hand)
+>>>>>>> ed05d8c (commit b2-1)
